@@ -1,0 +1,33 @@
+body {
+   background-image: linear-gradient(to bottom, black, darkgray, white);
+   background-attachment: fixed;
+}
+
+
+h1 {
+    color:white;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Cinzel', serif ;
+    padding-bottom: 0.5em;
+}
+h2 {
+    color: white;
+    text-align: center;
+    font-size: medium;
+    padding-bottom: 4em;
+    font-family:'Forum', serif;
+}
+h3 {
+    color: white;
+    text-align: left;
+    font-size: 1em;
+    padding-bottom: 1em;
+    font-family:'Forum', serif;
+}
+p{
+    text-align: justify;
+    color: white;
+    font-family:'Gentium Book Basic', serif;
+    padding-inline: 1em;
+}
